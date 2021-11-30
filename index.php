@@ -12,7 +12,7 @@ $_SESSION['previousRequest'] = 0;
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<title>Cartographer</title>
 		<link href="https://fonts.googleapis.com/css?family=Comfortaa:400,600" rel="stylesheet">
-		<link rel='icon' href='https://exp.v-os.ca/cartographer/assets/cartographer.ico' type='image/x-icon'>
+		<link rel='icon' href='assets/cartographer.ico' type='image/x-icon'>
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
 		<link rel="stylesheet" href="assets/style.css">
 	</head>
